@@ -1,7 +1,9 @@
 
-"Grindless MOD" mod for Minecraft Terrafirmacraft mod.
+"Grindless MOD" a mod for Minecraft Terrafirmacraft mod.
  
 ![](https://github.com/Zerg-152/TFC-Grindless-MOD/blob/master/ysyne2eq.jpg?raw=true)
+![asd](https://github.com/Zerg-152/TFC-Grindless-MOD/blob/master/Book.png?raw=true)
+
 
 TFC Grindless Mod allows player to minimize some of the super grindy aspects of the Terrafirmacraft Mod for Minecraft.
 
@@ -49,5 +51,4 @@ Open the Questbook and see the Quests.
 
 
 
-![asd](https://github.com/Zerg-152/TFC-Grindless-MOD/blob/master/Book.png?raw=true)
 
