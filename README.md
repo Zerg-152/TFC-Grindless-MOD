@@ -39,8 +39,9 @@ Recommended Resourcepack:
 
 
 How to install:  
-After installing needed mods, using Forge; Place/replace the Quests.hqm file into your C:\Users\ *user* \AppData\Roaming\.minecraft\config\hqm folder  
-Start Minecraft and enjoy the grindless heaven.  
+After installing needed mods, using Forge;  
+Place/replace the Quests.hqm  and front.png file into your C:\Users\ *user* \AppData\Roaming\.minecraft\config\hqm folder  
+Start Minecraft and enjoy.
 
 
 
