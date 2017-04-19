@@ -41,7 +41,11 @@ Recommended Resourcepack:
 How to install:  
 After installing needed mods, using Forge;  
 Place/replace the Quests.hqm  and front.png file into your C:\Users\ *user* \AppData\Roaming\.minecraft\config\hqm folder  
-Start Minecraft and enjoy.
+
+How to use:
+Create a world with CHEATS ON.  
+Type in the console: /HQM ENABLE  
+Open the Questbook and see the Quests.
 
 
 
